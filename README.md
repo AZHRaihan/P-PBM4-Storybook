@@ -20,7 +20,7 @@
 ![hasil positioned kedua](https://github.com/user-attachments/assets/bc42aa16-b78b-45d7-abce-0180a1ec5639)
 ## 10. Kunci & Logika Drag-and-Drop
 ![hasil positioned ketiga](https://github.com/user-attachments/assets/6e408588-fd42-4d16-a3e5-433c9bcf17cd)
-## 11. Uji Coba
+## 11. Uji Coba (Doubletap Astronaut, Long Press Peti, dan Geser Kunci Peti)
 ![menggeser kunci ke peti](https://github.com/user-attachments/assets/d6dfae50-7a73-453e-889f-8ca75903b17a)
 ![longpress peti](https://github.com/user-attachments/assets/459a1d03-079a-4754-bfad-11914426a326)
 ![double tap astronaut](https://github.com/user-attachments/assets/0a6b67e3-62a0-42a3-94b1-414e42f9e678)

@@ -3,7 +3,7 @@
 ![Screenshot (718)](https://github.com/user-attachments/assets/f51ba04a-d9f2-4ea4-816f-beb16d110591)
 ## 2. Code Editor
 ![code editor](https://github.com/user-attachments/assets/c58b454e-25d7-4fc8-ab14-f5eb16e4b1fd)
-## 3. Membuat 3 Folder Title_page.dart, scene_page.dart, end_page.dart
+## 3. Membuat Folder yang berisi 3 Files yaitu Title_page.dart, scene_page.dart, end_page.dart
 ![3 pages](https://github.com/user-attachments/assets/66dd7fee-1245-48fa-b331-083c2224acfb)
 ## 4. Mengganti main.dart
 ![main dart](https://github.com/user-attachments/assets/e4fcb207-7560-4039-b800-671e5fd3086c)
